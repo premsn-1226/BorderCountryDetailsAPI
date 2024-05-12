@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "countryInfo.fetchUrl",
+    "type": "java.lang.String",
+    "description": "This is the main URL to fetch the rest countries api"
+  },
+  {
+    "name": "countryInfo.fetchCountryNameApi",
+    "type": "java.lang.String",
+    "description": "This is used to fetch details of countries using name when it is passed to api"
+  },
+  {
+    "name": "countryInfo.searchCriteria",
+    "type": "java.lang.String",
+    "description": "This is used to send the criteria's mentioned to fetch the particular result in api"
+  },
+  {
+    "name": "countryInfo.fetchCountryCodeApi",
+    "type": "java.lang.String",
+    "description": "This is used to fetch details of countries using code when it is passed to api"
+  },
+  {
+    "name": "countryInfo.earthRadius",
+    "type": "java.lang.String",
+    "description": "Earth Radius in MILES is used for distance calculation purpose"
+  }
+]}
